@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-design-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulrraja/nodejs-design-patterns.git"
+  },
+  "author": "Rahul Raja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulrraja/nodejs-design-patterns/issues"
+  },
+  "homepage": "https://github.com/rahulrraja/nodejs-design-patterns#readme"
+}

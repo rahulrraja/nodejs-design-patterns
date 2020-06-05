@@ -67,3 +67,5 @@ const apiRequest = ApiRequestFactory.createApiRequest(availableOptions[Math.floo
 apiRequest.makeGetRequest("example.com")
     .then(response => console.log(response))
     .catch(err => console.log(err))
+
+module.exports = ApiRequestFactory;    
